@@ -1,0 +1,5 @@
+README.md
+app/node_modules/
+app/dist/
+app/build/
+*.log
